@@ -2,3 +2,8 @@ esta es la practica crada el 16 de agosto de 2017
 para crear desde el inicio como se trabaja con git
 y recordar los comandos necesarios que se van a utilizar
 date create(06:35 16/08/2017)
+
+a este archivo se le esta haciendo una modificacion 
+de solo estas 4 lineas 
+entonces ya estamos entendiendo como se trabaja en git
+correcto
